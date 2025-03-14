@@ -1,1 +1,1 @@
-export const server = "https://phenomenal-mousse-8bc30a.netlify.app/api/v2";
+export const server = "https://backend-mu-roan.vercel.app/api/v2";
